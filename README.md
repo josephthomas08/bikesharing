@@ -4,7 +4,7 @@
 
 The bikesharing project and its possible positive impact on the enviornment with additional health benefits for either gender and people of all ages were studiend and analysed from existing New york bikesharing data.
 
-The intent is to see the possiblity of replicating the same success in city of Des  moines with healthier alternative of travel and adding on the healtyh benfits for present and future generations. 
+The intent is to see the possiblity of replicating the same success in city of Des  moines with healthier alternative of travel and adding on the health benfits for present and future generations. 
 
 Considering the dynamics of such an investment in a city which could possibly be different than New york a better analysis will help the potetital investors to invest in profitable business and at the same time contributing into a excellent future for new generations by keeping greener, healthier  environment and well being.
 
@@ -15,7 +15,7 @@ The study will be more based out of the month of August when the usage is at pea
 
 <img width="1007" alt="Bikeshare Dashboard " src="https://user-images.githubusercontent.com/75267605/113336581-a43bf380-92f4-11eb-8345-3415e84439a8.png">
 
-More deatils will be provided in the summary 
+More details will be provided in the summary 
 
 
 
@@ -66,13 +66,13 @@ The Tableau tool gives us a the option to present the new intivative in Des Moin
 
 ## Note -The total number of rides in this dataset for the month of August 2019 are 2,344,224. This dataset includes  the rides by genders (male, female, unknown) and type of customers (subscribers and daily customers.
 
-The information gives us a estimate of what we can expect in any similar cities. This data also will ecnourage the city authorities to envision their team to look into ways to encourage the community to engage positively in reducing carbon footprint.
+The information gives us a estimate of what we can expect in any similar cities. This data also will encourage the city authorities to envision their team to look into ways to encourage the community to engage positively in reducing carbon footprint.
 
 ## Customer Breakdown
 
 <img width="1329" alt="D3 2 Customer breakdown" src="https://user-images.githubusercontent.com/75267605/113325308-41436000-92e6-11eb-821c-e98cde73ab97.png">
 
-The dataset and focussed dashboard gives us the overall two types of Users, daily customers (random users, Vacationers) and subscribers (regular users). The dat set shows that 81% are subscribers and rest 19% are daily customers.
+The dataset and focussed dashboard gives us the overall two types of Users, daily customers (random users, Vacationers) and subscribers (regular users). The data set shows that 81% are subscribers and rest 19% are daily customers.
 
 The data Set will help city and state to envision their tourist operators of how they can monetize and promote bike riding during the visit into their city.
 
@@ -80,14 +80,14 @@ The data Set will help city and state to envision their tourist operators of how
 
 <img width="1325" alt="D3 3 Gender Breakdown " src="https://user-images.githubusercontent.com/75267605/113325289-3983bb80-92e6-11eb-98db-84ef4c270eea.png">
 
-The data set shows three types of people marked out daily bikesharing activty.
+The data set shows three types of people marked out for daily bikesharing activty.
 
 #### 1. Male- 1,530,272 (65.28%)
 #### 2. Female- 588,431 (25.10%)
 #### 3. Unknown- 225,521 (9.62%)
 
 From the data set it is quite clear than considerable number of male gender are comfortable in usage of bikes compared to female and unknown gender. 
-These information for new city will assist us to know our target customers and at the same time gives the authorities additional reason to market the services to female gender and provide more options in the bikesharing app.
+This information for new city will assist them to know their target customers and at the same time gives the authorities additional reason to market the services to female gender and provide more options in the bikesharing app.
 
 
 
@@ -100,7 +100,7 @@ These information for new city will assist us to know our target customers and a
 <img width="1329" alt="D2 1 Checkout Times for Users" src="https://user-images.githubusercontent.com/75267605/113319928-f7577b80-92df-11eb-8b80-6133d811220f.png">
 
 
-The intent of this visualization is show the time these bikes are checked out for all the users. The image tells us that most of the bikes are checked out for a duration of 20 mins and none of the rides have exceeded 50 minutes of usage.
+The intent of this visualization is to show the time these bikes are checked out for all the users. The image tells us that most of the bikes are checked out for a duration of 20 mins and none of the rides have exceeded 50 minutes of usage.
 
 
 ### D 2.2 There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
@@ -123,7 +123,7 @@ The intent of this Viz is to show the length of time the bikes were cjhecked out
 
 <img width="1326" alt="D2 3 Trips by Weekday per Hour " src="https://user-images.githubusercontent.com/75267605/113320005-0807f180-92e0-11eb-98ed-3ac83a26491c.png">
 
-The above detailed heatmap visualtiaon was provided to highlight the peak  hours of the day and busiest days of the week. The heat map shows that from 7-9 am and 5-7 pm of teh weekdays are the peak hours while saturdays are busiest from 10AM-7PM.
+The above detailed heatmap visualtiaon was provided to highlight the peak  hours of the day and busiest days of the week. The heat map shows that from 7-9 am and 5-7 pm of the weekdays are the peak hours while saturdays are busiest from 10AM-7PM.
 
 Additionally it is noted that on sundays the peak is between 11AM-5PM.
 
@@ -196,7 +196,7 @@ Overall we believe that this initiative of Bikeshare being implemented with righ
 
 [link to dashboard](https://public.tableau.com/profile/joseph.thomas1397#!/vizhome/Bikeshare_challenge_16172323155970/Story1?publish=yes)
 
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/profile/joseph.thomas1397#!/vizhome/Bikeshare_challenge_16172323155970/Story1?publish=yes")
+
 
 
 
