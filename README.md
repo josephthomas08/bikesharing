@@ -1,6 +1,6 @@
 
 
-# Bikesharing project overview 
+# Bikesharing Project Overview 
 
 The bikesharing project and its possible positive impact on the enviornment with additional health benefits for either gender and people of all ages were studiend and analysed from existing New york bikesharing data.
 
@@ -9,6 +9,14 @@ The intent is to see the possiblity of replicating the same success in city of D
 Considering the dynamics of such an investment in a city which could possibly be different than New york a better analysis will help the potetital investors to invest in profitable business and at the same time contributing into a excellent future for new generations by keeping greener, healthier  environment and well being.
 
 The study will be more based out of the month of August when the usage is at peak and provide a deep study from mutiple facets to understand the business better.  The tool we are using for this project will be analysed and presented with TABLEAU. 
+
+# Bikeshare Dashboard 
+
+
+<img width="1007" alt="Bikeshare Dashboard " src="https://user-images.githubusercontent.com/75267605/113336581-a43bf380-92f4-11eb-8345-3415e84439a8.png">
+
+More deatils will be provided in the summary 
+
 
 
 
@@ -163,6 +171,12 @@ The bike utization graphs gives us windows of oppotunites to tactfully enageg in
 We are assited well with Tableau in knowing the relevant Bikeid and zie of bubble to identify the usage and time our maintaince activty.
 
 # SUMMARY
+
+## Bikeshare Dashboard 
+
+<img width="1007" alt="Bikeshare Dashboard " src="https://user-images.githubusercontent.com/75267605/113336581-a43bf380-92f4-11eb-8345-3415e84439a8.png">
+
+
 
 In Conclusion we will like to provide a brief summary from the great visuals Tableau offered from the data set we have from NYC bikesharing data.
 
