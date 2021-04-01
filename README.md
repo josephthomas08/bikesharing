@@ -159,6 +159,8 @@ The image above provides us information on the two types of users especially dai
 This graph speaks very specific to trips made by the three genders and two types of customers in relation to their age and gender. We notice that users born in 1990 are major users of bikes.
 We do notice certian spikes of users born in the year of 1969 but gender of such users were not very clear. Further research, surveys and investigations will assist us to propose to the investors of how we can implement similar healthy business initiatives by including all the stakeholders of their role to participate.
 
+Comfort bikes for different age groups operated by age identifcation through app could be other way to improve the usage of bikes in other age groups.
+
 
 
 ## Bike Utilization 
@@ -166,7 +168,7 @@ We do notice certian spikes of users born in the year of 1969 but gender of such
 <img width="1320" alt="D3 4 Bike Utilization " src="https://user-images.githubusercontent.com/75267605/113325364-528c6c80-92e6-11eb-9faf-5051b306dc4b.png">
 
 
-The bike utization graphs gives us windows of oppotunites to tactfully enageg in bike maintatinance during least usage time lines. The opertaional cost will have major impact with right approach to maintenance by keeping the downttime of bikes to bare minimal. Preventive and corrective maintainance will depend on knowng the time span when the usage is less.
+The bike utization graphs gives us windows of oppotunites to tactfully enagaging in bike maintatinance during least usage time lines. The opertaional cost will have major impact with right approach to maintenance by keeping the downttime of bikes to bare minimal. Preventive and corrective maintainance will depend on knowng the time span when the usage is less.
 
 We are assited well with Tableau in knowing the relevant Bikeid and zie of bubble to identify the usage and time our maintaince activty.
 
@@ -190,6 +192,12 @@ The relative comparision of population in Des moines and more data from the city
 Further details on the existing Public transport, key tourism locations will assist us to provide the 20 min start to stop bike rides comfort of the users.
 
 Overall we believe that this initiative of Bikeshare being implemented with right Capex and Opex will be great for cities and states to engage in and provide a healthy environment for generations to come.
+
+
+[link to dashboard](https://public.tableau.com/profile/joseph.thomas1397#!/vizhome/Bikeshare_challenge_16172323155970/Story1?publish=yes)
+
+[link to dashboard](LINK GOES HERE "https://public.tableau.com/profile/joseph.thomas1397#!/vizhome/Bikeshare_challenge_16172323155970/Story1?publish=yes")
+
 
 
 
